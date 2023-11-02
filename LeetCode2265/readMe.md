@@ -6,3 +6,6 @@ equal to the average of the values in its subtree.
 # Note:
 The average of n elements is the sum of the n elements divided by n and rounded down to the 
 nearest integer. A subtree of root is a tree consisting of root and all of its descendants.
+
+# Time Complexity - O(N)
+# Space Complexity - O(N)
